@@ -1,2 +1,2 @@
 ## WELCOME
-# this is my website
+# this is the repository for my web design homework
